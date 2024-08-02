@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+spacy
+enelvo
+dask
+dask-ml
+ipykernel  #Por conta do uso do VSCODE como IDE de escolha para construção do código
